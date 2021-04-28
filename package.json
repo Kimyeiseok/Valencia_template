@@ -1,0 +1,53 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/toolbar-android": "^0.1.0-rc.2",
+    "expo": "^40.0.0",
+    "expo-ads-admob": "~8.4.0",
+    "expo-app-loading": "^1.0.1",
+    "expo-facebook": "~9.1.0",
+    "expo-font": "~8.4.0",
+    "firebase": "7.9.0",
+    "moment": "^2.27.0",
+    "native-base": "^2.13.12",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-device-detection": "^0.2.1",
+    "react-native-form-validator": "^0.3.2",
+    "react-native-gesture-handler": "~1.8.0",
+    "react-native-image-slider-box": "^1.0.12",
+    "react-native-keyboard-aware-scroll-view": "^0.9.3",
+    "react-native-map-link": "^2.7.10",
+    "react-native-maps": "0.27.1",
+    "react-native-modalbox": "^2.0.0",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-render-html": "^4.2.1",
+    "react-native-root-toast": "^3.2.1",
+    "react-native-safe-area-context": "3.1.9",
+    "react-native-safe-area-view": "^1.1.1",
+    "react-native-screens": "~2.15.0",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-super-grid": "^4.0.2",
+    "react-native-timeago": "^0.5.0",
+    "react-native-vector-icons": "7.0.0",
+    "react-native-web": "~0.13.12",
+    "react-native-webview": "11.0.0",
+    "react-navigation": "^4.4.0",
+    "react-navigation-drawer": "^2.5.0",
+    "react-navigation-stack": "^2.8.2",
+    "tcomb-form-native": "^0.6.20"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "8.3.0"
+  },
+  "private": true
+}
